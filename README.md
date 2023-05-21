@@ -9,7 +9,7 @@ I'm a computer Engineer and currently working at Güven Yazılım. Here's a glim
 
 I'm currently working on a shop's websitesi using a specific technology/tool. You can find more information about my project on the following link:
 
-MusaShop](https://github.com/user/project)
+MusaShop (https://github.com/user/project)
 
 If you'd like to contribute to my project or get in touch on any other topic, feel free to email me or reach out to me on my social media accounts. Thank you!
 
